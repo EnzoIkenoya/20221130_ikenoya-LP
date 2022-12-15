@@ -266,8 +266,16 @@ h5 {
 table,th,td {
   border-collapse: collapse;
   border: 1px solid black;
+  text-align: left;
+  color: rgb(81, 80, 80);
 }
-
+th {
+  padding: 10px 200px 10px 20px;
+  background: rgb(224, 224, 224);
+}
+td {
+  padding: 10px 300px 10px 20px;
+}
 
 
 
