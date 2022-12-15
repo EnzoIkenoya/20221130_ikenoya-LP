@@ -263,7 +263,7 @@ h5 {
   font-size: 30px;
   padding: 0 0 20px 0;
 }
-table th td {
+table,th,td {
   border-collapse: collapse;
   border: 1px solid black;
 }
