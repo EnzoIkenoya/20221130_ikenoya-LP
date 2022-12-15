@@ -349,9 +349,9 @@ td {
 }
 
 .footer {
-  padding: 10px;
   width: 100%;
   background: darkgray;
   color: gray;
   text-align: center;
+  font-size: small;
 }
